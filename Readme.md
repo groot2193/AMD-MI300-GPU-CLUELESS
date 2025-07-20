@@ -1,4 +1,4 @@
-# Email Scheduling AI agent for Groups
+# Email Scheduling AI agent for Groups  - AutoMeet AI by Clueless
 
 This project demonstrates a prototype **AI Agent** capable of interacting with users, scheduling meetings via language models (LLMs), and generating structured metadata. It’s ideal as a base for building smart assistants, automation tools, or productivity bots.
 
