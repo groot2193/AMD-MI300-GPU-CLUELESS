@@ -13,7 +13,7 @@ This notebook demonstrates a prototype **AI Agent** that can interact with users
 
 ## 📁 File Structure
 
-- `Sample_AI_Agent-Copy.ipynb` – The main Jupyter notebook with all code blocks and demonstrations.
+- `Submission-notebook.ipynb` – The main Jupyter notebook with all code blocks and demonstrations.
 - `Keys/` – Folder for storing your Google OAuth token credentials.
 - `model_path` – Custom local LLM API endpoint.
 
