@@ -110,5 +110,3 @@ This will start a Flask server that connects with the AI agent and LLM to parse 
 * This setup is modular, so you can swap out models or calendar providers with minimal changes.
 
 ---
-
-Let me know if you'd like a `docs/google-auth.md` file scaffolded as well.
